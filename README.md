@@ -1,2 +1,5 @@
-# Blood-Pathology-Prediction
-Segmentation and classification of blood samples using Cellpose and U-Net. 
+# Artificial-Inteligence
+Inteligencia Artificial feita com python
+
+
+Create a kaggle.json file with: {"username":"yourUsername","key":"yourKey"} 

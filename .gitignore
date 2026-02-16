@@ -1,0 +1,5 @@
+kaggle.json
+.venv/
+data/
+cell_features.csv
+label_encoder.joblib
